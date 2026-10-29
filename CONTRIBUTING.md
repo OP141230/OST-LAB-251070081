@@ -15,4 +15,4 @@ Welcome! This repository is for practicing the open source workflow.
 ## Rules
 - One Pull Request = one change.
 - Do not add phone numbers, emails or other personal details.
-- Be respectful in every comment.
+- Be respectful in every comment you make.
